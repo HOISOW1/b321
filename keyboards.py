@@ -40,5 +40,5 @@ def esim_menu():
 def review_button():
     return InlineKeyboardMarkup(inline_keyboard=[
         [InlineKeyboardButton(text="отзывы", url="https://t.me/FrontMan_Shop_rep")]
-
     ])
+
